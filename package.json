@@ -1,0 +1,22 @@
+{
+  "name": "sahtihi4-beingzero",
+  "version": "1.0.0",
+  "description": "Mean full stack dev-week2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahithi-99/sahtihi4-beingzero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahithi-99/sahtihi4-beingzero/issues"
+  },
+  "homepage": "https://github.com/Sahithi-99/sahtihi4-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
